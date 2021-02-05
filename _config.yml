@@ -1,0 +1,3 @@
+exclude:
+  - generator.rb
+  - README.md

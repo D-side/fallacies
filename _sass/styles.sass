@@ -1,0 +1,38 @@
+body
+  font-family: sans-serif
+  max-width: 63em
+  margin: 0 auto
+
+small
+  opacity: 0.7
+
+a.anchor
+  opacity: 0.1
+  text-decoration: none
+  transition: opacity .3s
+  line-height: 1em
+
+h2:hover > a.anchor, h3:hover > a.anchor
+  opacity: 0.9
+
+main
+  padding: 1em
+  display: grid
+  grid-gap: 2em
+  grid-template-areas: "side" "content"
+
+  @media (min-width: 700px)
+    grid-template-columns: 3fr 1fr
+    grid-template-areas: "content side"
+
+content
+  grid-area: content
+side
+  grid-area: side
+  font-size: 1.5em
+  ul
+    list-style-type: none
+    padding-left: 1em
+    font-size: .8em
+    a
+      text-decoration: none

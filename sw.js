@@ -1,7 +1,7 @@
 ---
 ---
 let version = '{{ site.time | date_to_xmlschema  }}';
-let precachePaths = ['/'];
+let precachePaths = ['/', '/styles.css'];
 
 self.addEventListener('install', function (event) {
     event.waitUntil(
