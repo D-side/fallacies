@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fallacies
+title: Logical Fallacies
 ---
 
 ---
