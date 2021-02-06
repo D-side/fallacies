@@ -359,6 +359,8 @@ title: Логические ошибки
 
 ---
 
-<small>Контент взят из [приложения Logical Defence для Android от LukeStoneHm и других участников](https://github.com/LukeStonehm/LogicalDefence)<br>[Адаптировал для веба Павел Пеганов](https://github.com/D-side/fallacies)</small>
+<small>Контент взят из [приложения Logical Defence для Android от LukeStoneHm и других участников](https://github.com/LukeStonehm/LogicalDefence)
+<br>Адаптировал для веба [Павел Пеганов](https://github.com/D-side), [исходный код доступен под GPL-2.0](https://github.com/D-side/fallacies)
+<br>Перевод на русский язык: [Sad-Scientist](https://github.com/Sad-Scientist), [Павел Пеганов](https://github.com/D-side)</small>
 
 <small><i>Собрано: {{ site.time }}</i></small>
